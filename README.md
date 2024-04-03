@@ -6,3 +6,4 @@
 5.[lab_5](https://github.com/Srivardhan2004/aimllab-assgnments/blob/main/A5.ipynb)
 6.[lab_6](https://github.com/Srivardhan2004/aimllab-assgnments/blob/main/A6.ipynb)
 7.[lab_7](https://github.com/Srivardhan2004/aimllab-assgnments/blob/main/A7.ipynb)
+8.[lab_8](https://github.com/Srivardhan2004/aimllab-assgnments/blob/main/A8.ipynb)
